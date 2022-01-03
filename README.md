@@ -1,1 +1,1 @@
-# Cocoa-Core-Competencies-Chinese
+# iOS-CocoaCoreCompetencies-Chinese
