@@ -39,7 +39,7 @@ key path 是由一串由点分割的 keys 组成的字符串，用于指定要�
 
 ### 相关
 
-#### 先决条件文章
+#### 前提文章
 
 * [Object modeling](https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/ObjectModeling.html#//apple_ref/doc/uid/TP40008195-CH41-SW1)
 * [Accessor method](https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/AccessorMethod.html#//apple_ref/doc/uid/TP40008195-CH2-SW1)
