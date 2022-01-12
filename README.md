@@ -32,22 +32,3 @@ https://developer.apple.com/library/archive/documentation/General/Conceptual/Dev
 | [类定义]()     | [枚举]()     | [消息]()     | [对象创建]()   | [根类]()         |          |
 | [类方法]()     | [异常处理]() | [方法覆写]() |                | [选择器]()       |          |
 
-**CocoaCoreCompetencies-Chinese-Ordered**
-
-
-
-
-
-* 类定义
-* 分类
-
-* 消息
-* 选择器
-* 对象的创建
-* 初始化
-* 多个构造器
-* 协议
-* 对象的拷贝
-
-* 存取方法
-
