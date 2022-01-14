@@ -1,6 +1,6 @@
 ## iOS-CocoaCoreCompetencies-Chinese
 
-本仓库是对 [Cocoa Core Competencies](https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/Introduction.html) 文档的翻译。如 Apple 在文档中的介绍所说，此文档可能不代表当前开发的最佳实践，因为一些知识点已经过时了，因此随意看看就好。
+本仓库是对 [Cocoa Core Competencies](https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/Introduction.html) 文档的翻译。因为不想投入太多精力，所以大部分是机翻。如 Apple 在文档中的介绍所说，此文档可能不代表当前开发的最佳实践，因为一些知识点已经过时了，因此随意看看就好。
 
 ### 目录
 
@@ -20,7 +20,7 @@
 
 **CocoaCoreCompetencies-Chinese**
 
-|                | [Cocoa (Touch)]() | [框架]()         |                | [对象图]()       | [单例]() |
+|                | [Cocoa (Touch)]() | [框架]()         | [模型对象]()   | [对象图]()       | [单例]() |
 | -------------- | ----------------- | ---------------- | -------------- | ---------------- | -------- |
 | [存取方法]()   | [编码约定]()      | [信息属性列表]() | [MVC]()        | [对象生命周期]() |          |
 |                | [集合]()          | [初始化]()       | [多个构造器]() |                  |          |
@@ -31,4 +31,6 @@
 | [类簇]()       | [动态类型]()      | [内存管理]()     | [对象拷贝]()   | [协议]()         |          |
 | [类定义]()     | [枚举]()          | [消息]()         | [对象创建]()   | [根类]()         |          |
 | [类方法]()     | [异常处理]()      | [方法覆写]()     |                | [选择器]()       |          |
+
+
 
