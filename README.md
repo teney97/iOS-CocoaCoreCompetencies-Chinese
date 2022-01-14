@@ -1,6 +1,6 @@
 ## iOS-CocoaCoreCompetencies-Chinese
 
-https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/Introduction.html
+本仓库是对 [Cocoa Core Competencies](https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/Introduction.html) 文档的翻译。如 Apple 在文档中的介绍所说，此文档可能不代表当前开发的最佳实践，因为一些知识点已经过时了，因此随意看看就好。
 
 ### 目录
 
