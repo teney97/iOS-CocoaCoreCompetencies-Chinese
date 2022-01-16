@@ -15,7 +15,7 @@ App ID 是一个由两部分组成的字符串，用于标识来自单个开发�
 
 ### 一个 Explicit App ID 匹配单个应用
 
-对于与应用程序匹配的 Explicit App ID，App ID 中的 Team ID 必须等于与应用程序关联的  Team ID，并且 Bundle ID search string 必须等于应用程序的 Bundle ID。Bundle ID 是标识单个应用程序的唯一标识符，其他团队无法使用。
+对于与应用程序匹配的 Explicit App ID，App ID 中的 Team ID 必须等于与应用程序关联的 Team ID，并且 Bundle ID search string 必须等于应用程序的 Bundle ID。Bundle ID 是标识单个应用程序的唯一标识符，其他团队无法使用。
 
 ### Wildcard App IDs 匹配多个应用
 
