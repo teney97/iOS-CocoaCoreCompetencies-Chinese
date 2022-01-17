@@ -26,7 +26,7 @@ oneFrom = ^(int anInt) {
 };
 ```
 
-需要结束分号（`;`）作为标准 C 行尾标记。
+需要结束分号（`;`）作为 C 行尾标记。
 
 如果你没有显示声明一个 Block 表达式的返回值，它可以从 Block 的内容中自动推断出来。
 
@@ -44,7 +44,7 @@ printf("%d\n", oneFrom(10));
 
 通常，你将 Block 作为参数传递给函数或方法，在这些情况下，你通常会创建 inline Block。
 
-以下示例通过遍历判断 `NSSet` 对象是否包含由局部变量 `string` 指定的单词，如果包含，则将另一个局部变量  `found` 的值设置为 YES 并停止遍历。在这个例子中，`found` 被声明为一个 `__block` 变量。
+以下示例通过遍历判断 `NSSet` 对象是否包含由局部变量 `string` 指定的单词，如果包含，则将另一个局部变量 `found` 的值设置为 YES 并停止遍历。在这个例子中，`found` 被声明为一个 `__block` 变量。
 
 ```objectivec
 __block BOOL found = NO;
