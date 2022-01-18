@@ -10,7 +10,7 @@
 
 使用 KVO，一个对象可以观察另一个对象任何属性，包括简单特质（simple attributes）、一对一关系（to-one relationships）和一对多关系（to-many relationships）。对象可以查出属性的 new 值和 old 值是什么。一对多关系的观察者不仅被告知所做更改的类型，还被告知哪些对象参与了更改。
 
-作为一种通知机制，KVO 与 [NSNotification](https://developer.apple.com/documentation/foundation/nsnotification)  和 [NSNotificationCenter](https://developer.apple.com/library/archive/documentation/LegacyTechnologies/WebObjects/WebObjects_3.5/Reference/Frameworks/ObjC/Foundation/Classes/NSNotificationCenter/Description.html#//apple_ref/occ/cl/NSNotificationCenter) 类提供的机制相似，但也有显著差异。当属性值发生变化时，KVO 通知不是向所有已注册为观察者的对象广播通知的中心对象，而是直接发送给观察者对象。
+作为一种通知机制，KVO 与 [NSNotification](https://developer.apple.com/documentation/foundation/nsnotification) 和 [NSNotificationCenter](https://developer.apple.com/library/archive/documentation/LegacyTechnologies/WebObjects/WebObjects_3.5/Reference/Frameworks/ObjC/Foundation/Classes/NSNotificationCenter/Description.html#//apple_ref/occ/cl/NSNotificationCenter) 类提供的机制相似，但也有显著差异。当属性值发生变化时，KVO 通知不是向所有已注册为观察者的对象广播通知的中心对象，而是直接发送给观察者对象。
 
 ---
 
@@ -22,11 +22,11 @@
 
   符合 KVO 要求被观察对象的类也符合 KVC，并允许属性的自动观察者通知或实现属性的手动 KVO。
 
-* 你需要调用  `addObserver:forKeyPath:options:context:` 方法，为被观察对象的属性添加一个观察者。
+* 你需要调用 `addObserver:forKeyPath:options:context:` 方法，为被观察对象的属性添加一个观察者。
 
 * 在观察者对象中，实现 `observeValueForKeyPath:ofObject:change:context:` 方法。当被观察对象的属性值发生变化时此方法会被调用。
 
-### KVO 是绑定的一个组成部分（OS X）
+### KVO 是 Cocoa binding 的一个组成部分（OS X）
 
 Cocoa binding 是一种 OS X 技术，它允许你保持 Model 层与 View 层的值同步，而无需编写大量的“粘合代码”。通过 Interface Builder inspector，你可以在视图的属性和一段数据之间建立中介连接，“binding”它们，以便其中一个的更改反应在另一个中。KVO 连同 key-value encoding 和 key-value binding，都是对 Cocoa binding 有用的技术。 
 
