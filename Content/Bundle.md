@@ -32,12 +32,12 @@ Bundle 给用户和开发者带来了一些好处。它们使安装或重新安�
 
 #### 前提文章
 
-* [Message](https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/Message.html#//apple_ref/doc/uid/TP40008195-CH59-SW1)
+* [消息](https://github.com/teney97/iOS-CocoaCoreCompetencies-Chinese/blob/main/Content/消息.md)
 
 #### 相关文章
 
-- [Property list](https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/PropertyList.html#//apple_ref/doc/uid/TP40008195-CH44-SW1)
-- [Nib file](https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/NibFile.html#//apple_ref/doc/uid/TP40008195-CH34-SW1)
+- [属性列表 (Plist)](https://github.com/teney97/iOS-CocoaCoreCompetencies-Chinese/blob/main/Content/属性列表 (Plist).md)
+- [Nib 文件](https://github.com/teney97/iOS-CocoaCoreCompetencies-Chinese/blob/main/Content/Nib文件.md)
 
 #### 最终讨论
 
