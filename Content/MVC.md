@@ -36,12 +36,12 @@ Controller 对象在一个或多个 View 对象和一个或多个 Model 对象�
 
 #### 前提文章
 
-* [Message](https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/Message.html#//apple_ref/doc/uid/TP40008195-CH59-SW1)
+* [消息](https://github.com/teney97/iOS-CocoaCoreCompetencies-Chinese/blob/main/Content/消息.md)
 
 #### 相关文章
 
-- [Model object](https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/ModelObject.html#//apple_ref/doc/uid/TP40008195-CH31-SW1)
-- [Controller object](https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/ControllerObject.html#//apple_ref/doc/uid/TP40008195-CH11-SW1)
+- [模型对象](https://github.com/teney97/iOS-CocoaCoreCompetencies-Chinese/blob/main/Content/模型对象.md)
+- [控制器对象](https://github.com/teney97/iOS-CocoaCoreCompetencies-Chinese/blob/main/Content/控制器对象.md)
 
 #### 最终讨论
 

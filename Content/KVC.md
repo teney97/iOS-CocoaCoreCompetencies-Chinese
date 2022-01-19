@@ -41,12 +41,12 @@ key path 是由一串由点分割的 keys 组成的字符串，用于指定要�
 
 #### 前提文章
 
-* [Object modeling](https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/ObjectModeling.html#//apple_ref/doc/uid/TP40008195-CH41-SW1)
-* [Accessor method](https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/AccessorMethod.html#//apple_ref/doc/uid/TP40008195-CH2-SW1)
+* [对象建模](https://github.com/teney97/iOS-CocoaCoreCompetencies-Chinese/blob/main/Content/对象建模.md)
+* [存取方法](https://github.com/teney97/iOS-CocoaCoreCompetencies-Chinese/blob/main/Content/存取方法.md)
 
 #### 相关文章
 
-- [Declared property](https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/DeclaredProperty.html#//apple_ref/doc/uid/TP40008195-CH13-SW1)
+- [声明属性](https://github.com/teney97/iOS-CocoaCoreCompetencies-Chinese/blob/main/Content/声明属性.md)
 
 #### 最终讨论
 

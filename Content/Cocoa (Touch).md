@@ -31,8 +31,8 @@ None
 
 #### 相关文章
 
-- [Root class](https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/RootClass.html#//apple_ref/doc/uid/TP40008195-CH46-SW1)
-- [Objective-C](https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/ObjectiveC.html#//apple_ref/doc/uid/TP40008195-CH43-SW1)
+- [根类](https://github.com/teney97/iOS-CocoaCoreCompetencies-Chinese/blob/main/Content/根类.md)
+- [Objective-C](https://github.com/teney97/iOS-CocoaCoreCompetencies-Chinese/blob/main/Content/Objective-C.md)
 
 #### 最终讨论
 

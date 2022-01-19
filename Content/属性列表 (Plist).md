@@ -39,13 +39,13 @@ Plist 只包含某些类型的数据：dictionary、array、string、number（in
 
 #### 前提文章
 
-- [Object graph](https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/ObjectGraph.html#//apple_ref/doc/uid/TP40008195-CH54-SW1)
-- [Collection](https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/Collection.html#//apple_ref/doc/uid/TP40008195-CH10-SW1)
+- [对象图](https://github.com/teney97/iOS-CocoaCoreCompetencies-Chinese/blob/main/Content/对象图.md)
+- [集合](https://github.com/teney97/iOS-CocoaCoreCompetencies-Chinese/blob/main/Content/集合.md)
 
 #### 相关文章
 
-- [Object archiving](https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/Archiving.html#//apple_ref/doc/uid/TP40008195-CH1-SW1)
-- [Object mutability](https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/ObjectMutability.html#//apple_ref/doc/uid/TP40008195-CH42-SW1)
+- [对象归档](https://github.com/teney97/iOS-CocoaCoreCompetencies-Chinese/blob/main/Content/对象归档.md)
+- [对象可变性](https://github.com/teney97/iOS-CocoaCoreCompetencies-Chinese/blob/main/Content/对象可变性.md)
 
 #### 最终讨论
 

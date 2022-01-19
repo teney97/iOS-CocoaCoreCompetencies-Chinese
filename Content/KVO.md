@@ -36,12 +36,12 @@ Cocoa binding 是一种 OS X 技术，它允许你保持 Model 层与 View 层�
 
 #### 前提文章
 
-* [Key-value coding](https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/KeyValueCoding.html#//apple_ref/doc/uid/TP40008195-CH25-SW1)
+* [KVO](https://github.com/teney97/iOS-CocoaCoreCompetencies-Chinese/blob/main/Content/KVO.md)
 
 #### 相关文章
 
-- [Model-View-Controller](https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/MVC.html#//apple_ref/doc/uid/TP40008195-CH32-SW1)
-- [Dynamic binding](https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/DynamicBinding.html#//apple_ref/doc/uid/TP40008195-CH15-SW1)
+- [MVC](https://github.com/teney97/iOS-CocoaCoreCompetencies-Chinese/blob/main/Content/MVC.md)
+- [动态绑定](https://github.com/teney97/iOS-CocoaCoreCompetencies-Chinese/blob/main/Content/动态绑定.md)
 
 #### 最终讨论
 

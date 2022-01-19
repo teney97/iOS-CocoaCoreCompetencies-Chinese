@@ -27,8 +27,8 @@
 
 #### 前提文章
 
-* [Property list](https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/PropertyList.html#//apple_ref/doc/uid/TP40008195-CH44-SW1)
-* [Bundle](https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/Bundle.html#//apple_ref/doc/uid/TP40008195-CH4-SW1)
+* [属性列表 (Plist)](https://github.com/teney97/iOS-CocoaCoreCompetencies-Chinese/blob/main/Content/属性列表 (Plist).md)
+* [Bundle](https://github.com/teney97/iOS-CocoaCoreCompetencies-Chinese/blob/main/Content/Bundle.md)
 
 #### 相关文章
 
